@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# ignore all images in the images folder
+images/ 
+# ignore all images in the low_images folder
+low_images/ 
+# ignore all images in the high_images folder
+high_images/ 
+# ignore all files in the logs folder
+logs/ 
+# ignore all files in the _pycache_ folder
+_pycache_/ 
+# ignore all files in the .idea folder
+.idea/ 
